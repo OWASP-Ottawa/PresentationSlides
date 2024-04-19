@@ -1,14 +1,11 @@
-# PresentationSlides
+# OWASP Ottawa Meetup Presentation Slides
 
 ## Introduction
-This repository contains the slide decks from presentations at OWASP Ottawa Meetup and workshops.
+This repository contains the slide decks, meetup posters, and images from meetups and workshopes at OWASP Ottawa.
 
 
 ## Contact
 
-Regardless of how you found this repository, you can reach out to us at:
+Regardless of how you found this repository, you can find all our details on how to communicate with us at:
 
-[Twitter](https://twitter.com/OWASP_Ottawa)<br />
-[Web](https://owasp.org/www-chapter-ottawa/)<br />
-[Slack](https://owaspottawa.slack.com/) signup via [Herokuapp](https://owaspottawa.herokuapp.com/)<br />
-[Meetup](https://www.meetup.com/OWASP-Ottawa/)<br />
+[OWASP Ottawa Chapter Webpage](https://owasp.org/www-chapter-ottawa/)<br />
